@@ -1,0 +1,40 @@
+[0.020s] Invoking command in '/home/edisonwong/dev_ws/src/build/serial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/src/build/serial -- -j8 -l8
+[0.060s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[0.063s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[0.063s] [35m[1mConsolidate compiler generated dependencies of target serial[0m
+[0.078s] [ 14%] Built target gtest_main
+[0.084s] [ 42%] Built target serial
+[0.085s] [ 57%] Built target gtest
+[0.097s] [35m[1mConsolidate compiler generated dependencies of target serial_example[0m
+[0.100s] [35m[1mConsolidate compiler generated dependencies of target serial-test[0m
+[0.100s] [35m[1mConsolidate compiler generated dependencies of target serial-test-timer[0m
+[0.118s] [ 71%] Built target serial_example
+[0.121s] [ 85%] Built target serial-test-timer
+[0.122s] [100%] Built target serial-test
+[0.148s] Invoked command in '/home/edisonwong/dev_ws/src/build/serial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/src/build/serial -- -j8 -l8
+[0.186s] Invoking command in '/home/edisonwong/dev_ws/src/build/serial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/edisonwong/dev_ws/src/build/serial
+[0.194s] -- Install configuration: ""
+[0.195s] -- Execute custom install script
+[0.196s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/lib/libserial.a
+[0.196s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/include/serial/serial.h
+[0.196s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/include/serial/v8stdint.h
+[0.197s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/library_path.sh
+[0.197s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/library_path.dsv
+[0.197s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+[0.198s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+[0.198s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/ament_prefix_path.sh
+[0.198s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/ament_prefix_path.dsv
+[0.199s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/path.sh
+[0.199s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/environment/path.dsv
+[0.199s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/local_setup.bash
+[0.199s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/local_setup.sh
+[0.200s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/local_setup.zsh
+[0.200s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/local_setup.dsv
+[0.200s] -- Symlinking: /home/edisonwong/dev_ws/src/install/serial/share/serial/package.dsv
+[0.209s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/ament_index/resource_index/packages/serial
+[0.210s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.210s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+[0.210s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/cmake/serialConfig.cmake
+[0.210s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/cmake/serialConfig-version.cmake
+[0.211s] -- Up-to-date symlink: /home/edisonwong/dev_ws/src/install/serial/share/serial/package.xml
+[0.217s] Invoked command in '/home/edisonwong/dev_ws/src/build/serial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/edisonwong/dev_ws/src/build/serial

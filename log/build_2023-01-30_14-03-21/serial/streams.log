@@ -1,0 +1,9 @@
+[0.029s] Invoking command in '/home/edisonwong/dev_ws/build/serial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/build/serial -- -j8 -l8
+[0.085s] [ 14%] Built target gtest_main
+[0.089s] [ 35%] Built target gtest
+[0.089s] [ 57%] Built target serial
+[0.117s] [ 71%] Built target serial_example
+[0.118s] [ 85%] Built target serial-test
+[0.123s] [100%] Built target serial-test-timer
+[0.135s] Invoked command in '/home/edisonwong/dev_ws/build/serial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/build/serial -- -j8 -l8
+[0.205s] Invoking command in '/home/edisonwong/dev_ws/build/serial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/edisonwong/dev_ws/build/serial

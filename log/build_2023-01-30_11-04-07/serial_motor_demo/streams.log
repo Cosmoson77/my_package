@@ -1,0 +1,32 @@
+[1.636s] Invoking command in '/home/edisonwong/dev_ws/build/serial_motor_demo': AMENT_PREFIX_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs LD_LIBRARY_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/edisonwong/dev_ws/build/serial_motor_demo/prefix_override:/home/edisonwong/dev_ws/install/serial_motor_demo/lib/python3.10/site-packages:/home/edisonwong/dev_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edisonwong/dev_ws/build/serial_motor_demo/build --no-deps install_data
+[1.990s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.990s]   warnings.warn(
+[2.032s] running develop
+[2.033s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.033s]   warnings.warn(
+[2.035s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.035s]   warnings.warn(
+[2.114s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[2.114s]   warnings.warn(
+[2.115s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.115s]   warnings.warn(
+[2.115s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.115s]   warnings.warn(
+[2.115s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[2.115s]   warnings.warn(
+[2.270s] running egg_info
+[2.270s] writing serial_motor_demo.egg-info/PKG-INFO
+[2.270s] writing dependency_links to serial_motor_demo.egg-info/dependency_links.txt
+[2.271s] writing entry points to serial_motor_demo.egg-info/entry_points.txt
+[2.271s] writing requirements to serial_motor_demo.egg-info/requires.txt
+[2.271s] writing top-level names to serial_motor_demo.egg-info/top_level.txt
+[2.274s] reading manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[2.276s] writing manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[2.323s] running build_ext
+[2.324s] Creating /home/edisonwong/dev_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial-motor-demo.egg-link (link to .)
+[2.325s] Installing driver script to /home/edisonwong/dev_ws/install/serial_motor_demo/lib/serial_motor_demo
+[2.325s] Installing gui script to /home/edisonwong/dev_ws/install/serial_motor_demo/lib/serial_motor_demo
+[2.325s] 
+[2.325s] Installed /home/edisonwong/dev_ws/build/serial_motor_demo
+[2.326s] running install_data
+[2.362s] Invoked command in '/home/edisonwong/dev_ws/build/serial_motor_demo' returned '0': AMENT_PREFIX_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs LD_LIBRARY_PATH=/home/edisonwong/dev_ws/install/serial_motor_demo_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/edisonwong/dev_ws/build/serial_motor_demo/prefix_override:/home/edisonwong/dev_ws/install/serial_motor_demo/lib/python3.10/site-packages:/home/edisonwong/dev_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edisonwong/dev_ws/build/serial_motor_demo/build --no-deps install_data

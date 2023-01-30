@@ -1,0 +1,38 @@
+[0.116s] Invoking command in '/home/edisonwong/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/build/my_bot -- -j8 -l8
+[0.350s] Invoked command in '/home/edisonwong/dev_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/build/my_bot -- -j8 -l8
+[0.649s] Invoking command in '/home/edisonwong/dev_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/edisonwong/dev_ws/build/my_bot
+[0.723s] -- Install configuration: ""
+[0.726s] -- Execute custom install script
+[0.730s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/config/drive_bot.rviz
+[0.733s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/config/empty.yaml
+[0.735s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/config/my_controllers.yaml
+[0.736s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/config/view_bot.rviz
+[0.737s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/camera.xacro
+[0.738s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/depth_camera.xacro
+[0.740s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
+[0.740s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.741s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/lidar.xacro
+[0.743s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.745s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.748s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/description/ros2_control.xacro
+[0.749s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
+[0.750s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
+[0.751s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/worlds/empty.world
+[0.752s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/worlds/kb5.world
+[0.752s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/worlds/obstacles.world
+[0.753s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.755s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.758s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.759s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.760s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/environment/path.sh
+[0.762s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/environment/path.dsv
+[0.763s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/local_setup.bash
+[0.765s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/local_setup.sh
+[0.766s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/local_setup.zsh
+[0.768s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/local_setup.dsv
+[0.769s] -- Symlinking: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/package.dsv
+[0.820s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.822s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.826s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.827s] -- Up-to-date symlink: /home/edisonwong/dev_ws/install/my_bot/share/my_bot/package.xml
+[0.842s] Invoked command in '/home/edisonwong/dev_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/edisonwong/dev_ws/build/my_bot

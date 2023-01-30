@@ -1,0 +1,13 @@
+[0.023s] Invoking command in '/home/edisonwong/dev_ws/build/serial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/edisonwong/dev_ws/build/serial -- -j8 -l8
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target serial[0m
+[0.064s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[0.083s] [ 35%] Built target gtest_main
+[0.083s] [ 42%] Built target serial
+[0.084s] [ 57%] Built target gtest
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target serial-test-timer[0m
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target serial_example[0m
+[0.097s] [35m[1mConsolidate compiler generated dependencies of target serial-test[0m
+[0.116s] [ 71%] Built target serial_example
+[0.118s] [ 85%] Built target serial-test-timer
+[0.119s] [100%] Built target serial-test
